@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<%= debug(params) if Rails.env.development? %>]]></content>
+  <tabTrigger>debug</tabTrigger>
+  <scope>text.html</scope>
+  <description>debug(params) if Rails.env.development?</description>
+</snippet>

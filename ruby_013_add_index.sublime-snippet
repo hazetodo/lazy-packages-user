@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[add_index :${1:users}, :${2:email}, ${3:unique: true}]]></content>
+  <tabTrigger>addindex</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>add_column</description>
+</snippet>

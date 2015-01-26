@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<%= form_for @${1:model} do |f| %>
+  $0
+<% end %>]]></content>
+    <tabTrigger>ff</tabTrigger>
+    <scope>text.html.ruby, text.haml</scope>
+    <description>form_for cust</description>
+</snippet>

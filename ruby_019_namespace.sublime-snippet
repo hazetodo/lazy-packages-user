@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[# namespace
+namespace :admin do
+  resources :products
+end]]></content>
+  <tabTrigger>namespace</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>namespace</description>
+</snippet>

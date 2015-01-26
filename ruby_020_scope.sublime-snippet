@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[scope :a_z, -> { order "lower(title) ASC" }]]></content>
+  <tabTrigger>scopea2z</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>scope :a_z, -> { order "lower(title) ASC" }</description>
+</snippet>

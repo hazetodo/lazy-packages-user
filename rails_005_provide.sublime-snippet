@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<% provide(:${1:title}, '${2:Home}') %>]]></content>
+  <tabTrigger>provide</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>provide (ERB)</description>
+</snippet>

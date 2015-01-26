@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[validates :${1:field_name}, presence: true]]></content>
+    <tabTrigger>vapre</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>validates presence: true</description>
+</snippet>

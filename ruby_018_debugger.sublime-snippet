@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[default: ${1:false}]]></content>
+  <tabTrigger>default</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>default: false</description>
+</snippet>

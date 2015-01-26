@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[root '${2:application#hello}']]></content>
+  <tabTrigger>root</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>root 'application#hello'</description>
+</snippet>

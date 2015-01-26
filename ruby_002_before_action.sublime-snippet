@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[before_action ${2::${1:authenticate_user!}}]]></content>
+    <tabTrigger>beforeactionauthenticateuser</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>before_action</description>
+</snippet>

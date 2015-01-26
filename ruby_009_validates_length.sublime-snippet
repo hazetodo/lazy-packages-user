@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[validates :${1:field_name}, length: { maximum: 140 }]]></content>
+  <tabTrigger>valen</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>validates length</description>
+</snippet>

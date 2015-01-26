@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[get '${1:contact}' => '${2:static_pages}#${3:contact}' # 只有 rocket 這樣的形式，沒有 :contact => 'static_pages#contact'
+]]></content>
+  <tabTrigger>get</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>get 'contact' => 'static_pages#contact' # 只有 rocket 這樣的形式，沒有 :contact => 'static_pages#contact'</description>
+</snippet>

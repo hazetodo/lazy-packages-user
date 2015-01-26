@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[before_save ${1:{ self.email = email.downcase }}]]></content>
+  <tabTrigger>beforesave</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>before_save</description>
+</snippet>

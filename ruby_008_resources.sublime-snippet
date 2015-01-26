@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[resources :${1:users}]]></content>
+  <tabTrigger>resources</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>resources :users</description>
+</snippet>
