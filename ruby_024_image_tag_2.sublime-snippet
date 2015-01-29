@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[image_tag "http://placehold.it/${1:150}x${2:200}&text=No Pic", class: "thumbnail"]]></content>
+  <tabTrigger>imagetag2</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>image_tag placehold</description>
+</snippet>

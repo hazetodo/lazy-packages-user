@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[image_tag ${1:product.photo.thumb}${2:, class: "3{:thumbnail}"}]]></content>
+  <tabTrigger>imagetag</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>image_tag</description>
+</snippet>

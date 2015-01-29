@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<%= render partial: '${1:form}' %>]]></content>
+  <content><![CDATA[render partial: '${1:form}']]></content>
   <tabTrigger>renderpartial</tabTrigger>
   <scope>source.ruby</scope>
   <description>render partial: 'form'</description>
