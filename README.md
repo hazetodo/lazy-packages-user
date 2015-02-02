@@ -9,7 +9,7 @@ $ echo "# lazy-packages-user" >> .gitignore
 ## location
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
-cd sl .
+sl .
 ```
 
 ```
