@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[current_user]]></content>
+  <tabTrigger>currentuser</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>current_user</description>
+</snippet>

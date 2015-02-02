@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[get '${2:static_pages/home}']]></content>
-  <tabTrigger>get</tabTrigger>
-  <scope>source.ruby</scope>
-  <description>get 'static_pages/home'</description>
-</snippet>
