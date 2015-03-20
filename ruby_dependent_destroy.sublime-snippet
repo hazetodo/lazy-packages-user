@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[dependent: :destroy]]></content>
+  <tabTrigger>dependent</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>dependent</description>
+</snippet>
