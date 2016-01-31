@@ -1,4 +1,5 @@
 <snippet>
+<snippet>
     <content><![CDATA[<% $0 %>]]></content>
     <tabTrigger>amy</tabTrigger>
     <scope>text.html.ruby</scope>

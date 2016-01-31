@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[```
+(D)
+```]]></content>
+  <tabTrigger>amyd</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>resources</description>
+</snippet>

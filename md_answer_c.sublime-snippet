@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[```
+(C)
+```]]></content>
+  <tabTrigger>amyc</tabTrigger>
+  <scope>text.html.markdown</scope>
+  <description>(C))</description>
+</snippet>
